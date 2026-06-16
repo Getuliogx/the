@@ -1,0 +1,76 @@
+Clarke Griffin|Líder dos jovens enviados à Terra, inteligente, médica em formação e disposta a fazer escolhas difíceis.
+Bellamy Blake|Irmão de Octavia, protetor e impulsivo, vira uma das principais lideranças dos sobreviventes.
+Octavia Blake|Criada escondida na Arca, chega à Terra buscando liberdade e se aproxima dos Grounders.
+Abigail Abby Griffin|Médica da Arca e mãe de Clarke, tenta salvar seu povo mesmo quebrando regras.
+Marcus Kane|Conselheiro da Arca, rígido no começo, mas evolui para uma liderança mais humana.
+Thelonious Jaha|Chanceler da Arca, guiado pela fé em salvar seu povo e encontrar um futuro.
+Raven Reyes|Mecânica brilhante, determinada e essencial para a sobrevivência técnica do grupo.
+Finn Collins|Um dos jovens enviados à Terra, romântico, pacifista no começo e marcado por decisões ruins.
+Wells Jaha|Filho do chanceler e antigo melhor amigo de Clarke, tenta agir com honra.
+Jasper Jordan|Sobrevivente engraçado e sensível, muito abalado pelas perdas da Terra.
+Monty Green|Inteligente, leal e ótimo com tecnologia, um dos amigos mais confiáveis do grupo.
+John Murphy|Começa como encrenqueiro egoísta, mas sobrevive usando astúcia e instinto.
+Callie Cartwig|Amiga de Abby na Arca, aparece no início da história ligada ao núcleo adulto.
+Lincoln|Grounder que protege Octavia e tenta criar paz entre povos inimigos.
+Lexa|Comandante dos Grounders, estrategista fria e poderosa, ligada a Clarke.
+Anya|Líder Grounder dura e respeitada, inimiga dos Skaikru no começo.
+Indra|Guerreira Trikru, líder severa e mentora importante para Octavia.
+Roan|Príncipe de Azgeda, guerreiro perigoso e aliado instável de Clarke.
+Echo|Guerreira de Azgeda, leal ao seu povo e perigosa em missões.
+Luna|Nightblood pacifista, vive afastada das guerras, mas carrega grande importância para o futuro.
+Niylah|Grounder ligada ao posto comercial, ajuda Clarke e outros sobreviventes.
+Emori|Sobrevivente esperta e desconfiada, marcada por rejeição e muito ligada a Murphy.
+Gaia|Fleimkepa ligada à religião dos Grounders e filha de Indra.
+Ilian|Grounder traumatizado pela Cidade da Luz, movido por raiva contra a tecnologia.
+Titus|Fleimkepa e conselheiro de Lexa, extremamente fiel às tradições Grounders.
+Gustus|Guarda leal de Lexa, disposto a tudo para proteger a comandante.
+Nyko|Curandeiro Grounder, tenta ajudar apesar da guerra entre os povos.
+Tristan|Comandante Grounder que lidera ataques contra os jovens da Arca.
+Queen Nia|Rainha de Azgeda, ambiciosa, cruel e inimiga política de Lexa.
+Ontari|Nightblood de Azgeda, violenta e usada em disputas pelo poder.
+Aden|Jovem Nightblood treinado para disputar o posto de comandante.
+ALIE|Inteligência artificial responsável por manipular pessoas através da Cidade da Luz.
+Becca Franko|Criadora de ALIE e figura essencial para a origem da tecnologia dos comandantes.
+Jake Griffin|Pai de Clarke, executado por tentar revelar a verdade sobre a Arca.
+Diana Sydney|Política da Arca, ambiciosa e disposta a sacrificar outros por poder.
+Shumway|Guarda da Arca envolvido em conspirações contra Jaha.
+Major Byrne|Oficial da Arca ligada à segurança e às decisões militares.
+Vera Kane|Mãe de Marcus Kane, ligada ao passado emocional dele na Arca.
+Aurora Blake|Mãe de Bellamy e Octavia, esconde a filha para protegê-la das leis da Arca.
+David Miller|Pai de Nathan Miller e membro dos sobreviventes da Arca.
+Nathan Miller|Um dos jovens sobreviventes, leal ao grupo e bom em combate.
+Harper McIntyre|Sobrevivente da Arca, forte, leal e muito ligada a Monty.
+Eric Jackson|Médico da Arca, trabalha ao lado de Abby e ajuda os sobreviventes.
+Jacapo Sinclair|Engenheiro da Arca e mentor de Raven, calmo e muito inteligente.
+Kyle Wick|Engenheiro da Arca, trabalha com Raven em soluções técnicas.
+Charles Pike|Professor da Arca que vira líder radical e toma decisões violentas contra Grounders.
+Hannah Green|Mãe de Monty, ligada ao grupo de Pike e aos conflitos internos dos Skaikru.
+Gina Martin|Moradora de Arkadia e namorada de Bellamy, vítima dos ataques de Azgeda.
+Monroe|Sobrevivente dos 100, participa das missões e da defesa do grupo.
+Atom|Jovem dos 100, se aproxima de Octavia no começo da história.
+Charlotte|Menina dos 100 traumatizada pela Arca e pelas primeiras mortes na Terra.
+Fox|Jovem dos 100, sobrevive aos primeiros conflitos e acaba capturada em Mount Weather.
+Roma|Jovem dos 100, uma das primeiras vítimas da Terra.
+Myles|Jovem dos 100, participa da vida no acampamento inicial.
+Dax|Prisioneiro dos 100 usado em uma tentativa de matar Bellamy.
+Sterling|Jovem dos 100 que participa das missões e riscos fora do acampamento.
+Connor|Integrante dos 100, aparece entre os jovens sobreviventes do acampamento.
+Derek|Integrante dos 100, ligado aos primeiros conflitos na Terra.
+Mbege|Jovem dos 100, envolve-se em conflitos de sobrevivência.
+Maya Vie|Moradora de Mount Weather, bondosa e importante para Jasper.
+Dante Wallace|Presidente de Mount Weather, culto e dividido entre moral e sobrevivência.
+Cage Wallace|Filho de Dante, cruel e disposto a sacrificar os jovens da Arca.
+Lorelei Tsing|Médica de Mount Weather, conduz experimentos brutais com os sobreviventes.
+Carl Emerson|Soldado de Mount Weather, sobrevive e busca vingança contra Clarke.
+Vincent Vie|Pai de Maya, morador de Mount Weather.
+Lovejoy|Guarda de Mount Weather, envolvido nos conflitos contra os jovens.
+Bryan|Namorado de Miller, morador de Arkadia e ligado aos conflitos com Grounders.
+Riley|Sobrevivente de Farm Station, resgatado após ser mantido preso por Azgeda.
+Mel|Sobrevivente encontrada durante missões fora do acampamento.
+Baylis|Grounder ligado a conflitos e acusações durante a busca por respostas.
+Rafel|Grounder ligado ao clã de Ilian e aos traumas causados por ALIE.
+Adria|Integrante do grupo de Luna, vive no refúgio marítimo.
+Derrick|Integrante do grupo de Luna, ligado ao povo pacifista dela.
+Shawn Gillmer|Guarda ligado à segurança da Arca.
+Norris|Sobrevivente da Arca ligado às decisões do núcleo adulto.
+Costia|Pessoa importante do passado de Lexa, citada por sua ligação emocional com ela.
