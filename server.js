@@ -37,10 +37,10 @@ function sortearThe100() {
   }
 
   if (descricao) {
-    return `Seu personagem de The 100 é: ${nome} — ${descricao}`;
+    return `Você é: ${nome} — ${descricao}`;
   }
 
-  return `Seu personagem de The 100 é: ${nome}`;
+  return `SVoce é: ${nome}`;
 }
 
 app.get("/", (req, res) => {
